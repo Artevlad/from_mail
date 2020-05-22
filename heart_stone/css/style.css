@@ -6,6 +6,9 @@ table{
     max-width: 600px;
     margin: auto;
 }
+td{
+    padding: 0;
+}
 .new_cart{
     font-size: 55px;
     color: #20b4bb;
@@ -126,4 +129,35 @@ td .bom{
 }
 .bac_two{
     background-color: #eed3a8;
+}
+.dark_blue{
+    font-size: 36px;
+    color: #263870;
+    font-family: "Arial";
+    font-weight: bold;
+    text-align: center;
+    margin-top: 45px;
+}
+.gray{
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+    font-family: "Arial";
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-bottom: 30px;
+}
+.inline_block{
+    display: inline;
+}
+.inline_block p{
+    float: left;
+}
+.inline_block p:first-child{
+    margin-left: 82px;
+}
+.footer{
+    padding: 25px;
 }
