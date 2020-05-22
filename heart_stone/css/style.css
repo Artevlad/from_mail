@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+body{
+    max-width: 600px;
+}
+table{
+    display: table;
+    border-collapse: collapse;
+    max-width: 600px;
+}
+.new_cart{
+    font-size: 55px;
+    color: #20b4bb;
+    font-family: "Arial";
+    font-weight: bold;
+}
+.name_cart{
+    font-size: 36px;
+    color: #bcbcbd;
+    font-family: "Arial";
+    font-weight: bold; 
+    margin-top: 6px; 
+}
+.text{
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+}
+a{
+    color: #ac4e2c;
+}
+.bac{
+    background-color: #0c131b;
+}
+.new{
+    margin-top: -132px;
+}
+.height_p{
+    margin-top: 55px;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+.height_p_two{
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 70px;
+    margin-bottom: 25px;
+}
+.center{
+    text-align: center;
+}
+b{
+    color: #e8a336;
+}
+.position{
+    margin-top: -55px;
+}
+.mar{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
