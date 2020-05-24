@@ -29,7 +29,8 @@ td{
     font-family: "Arial";
 }
 a{
-    color: #ac4e2c;
+    color: #fa5d26;
+    font-weight: bold;
 }
 .bac{
     background-color: #0c131b;
@@ -149,14 +150,8 @@ td .bom{
     margin-right: 60px;
     padding-bottom: 30px;
 }
-.inline_block{
-    display: inline;
-}
-.inline_block p{
-    float: left;
-}
-.inline_block p:first-child{
-    margin-left: 82px;
+.block_align{
+    text-align: center;
 }
 .footer{
     padding: 25px;
